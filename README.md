@@ -1,10 +1,15 @@
-![Velocity](https://cdn.modrinth.com/data/cached_images/439c8eee6261a3bbb8b1f1fa0ffb166b8c114d32.png)
-
+![banner](https://cdn.modrinth.com/data/cached_images/f8dd8fbb11ae83509a4ba1be49dfaa94c021e1ed_0.webp)
 <center>
 
 ### <ins>Your Perfect Quality of Life Modpack</ins>
 
 **Velocity optimizes Minecraft for smoother, faster gameplay with reduced lag and shorter load times. It focuses on performance and enhancing the vanilla experience with useful quality-of-life features.**
+
+[![Novix](https://i.imgur.com/viE7587.png)](https://modrinth.com/user/Novix) 
+[![Github](https://i.imgur.com/D7q3qCU.png)](https://github.com/P1XZL/Velocity) 
+[![fabric](https://i.imgur.com/4z8jd5p.png)](https://fabricmc.net/)
+  [![VelocityPlus](https://i.imgur.com/HcDXRKP.png)](https://modrinth.com/modpack/velocity-plus)
+  [![Quicksurf](https://i.imgur.com/mc8HVq3.png)](modrinth.com/modpack/quicksurf)
 
 </center>
 
@@ -22,7 +27,7 @@ Velocity boosts Minecraft’s performance, making it up to **3x faster** than va
 - Monitor your **ping** and others' in real time
 - See **OptiFine, LabyMod, and MinecraftCapes** in-game
 
-### **Visual Upgrades**
+### **Extras**
 - Shader support for vibrant and dynamic lighting
 - Reduced visual obstructions (lowered fire, shield, etc.)
 - View maps while boating
@@ -47,7 +52,7 @@ Velocity boosts Minecraft’s performance, making it up to **3x faster** than va
 ---
 
 <details>
-<summary>Frequently Asked Questions</summary>
+<summary>FAQ</summary>
 
 | Question & Answer |
 |---|
