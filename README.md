@@ -45,6 +45,10 @@ Velocity boosts Minecraft’s performance, making it up to **3x faster** than va
 - CPU: At least a clockspeed of 2.0 GHz
 - RAM: At least 8GB system RAM (with **1GB-1.5GB** allocated to Minecraft)
 - Storage: SSD preferred for faster chunk loading and smoother gameplay
+
+### **Contact Info**
+- Discord: P1XZL.
+- Email: P1XZL@proton.me
 ---
 
 *This project falls under the [CC-BY-NC-ND License](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en). If you want to use it for your own means, please read the [license](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) before doing so.*
