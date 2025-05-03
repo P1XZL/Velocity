@@ -1,0 +1,44 @@
+{
+  "backgroundColour": 0,
+  "chatColour": 16777215,
+  "oxygenColour": 255,
+  "hungerColour": 16776960,
+  "movementColour": 65535,
+  "ESCColour": 16711680,
+  "tabColour": 65280,
+  "modifierColour": 65280,
+  "inventoryColour": 255,
+  "health": {
+    "normalColour": 16711680,
+    "poisonedColour": 65280,
+    "witheredColour": 1703936,
+    "frozenColour": 60159,
+    "hardcoreNormalColour": 16728064,
+    "hardcorePoisonedColour": 4259584,
+    "hardcoreWitheredColour": 1705472,
+    "hardcoreFrozenColour": 43775,
+    "regenColour": 65280,
+    "regenFlashDuration": 10,
+    "damageColour": 16716032,
+    "damageFlashDuration": 5,
+    "damageThreshold": 5
+  },
+  "items": {
+    "selectedColour": 65280,
+    "toolColour": 65535,
+    "stackableColour": 255,
+    "otherColour": 16777215,
+    "emptyColour": 0,
+    "minBrightness": 50
+  },
+  "tint": {
+    "enabled": true,
+    "preserveBlack": true,
+    "waterColour": 5592490,
+    "fireColour": 16733525,
+    "rainColour": 43690,
+    "stormColour": 3097674,
+    "powderSnowColour": 16777215,
+    "snowColour": 14540253
+  }
+}
