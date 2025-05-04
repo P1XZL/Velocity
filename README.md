@@ -11,8 +11,8 @@
 [![curseforge](https://i.imgur.com/68UrJRn.png)](https://curseforge.com/minecraft/modpacks/velocity-fabric)
 [![modrinth](https://i.imgur.com/lV4nhdG.png)](https://modrinth.com/modpack/velocity-mc)
   [![VelocityPlus](https://i.imgur.com/HcDXRKP.png)](https://modrinth.com/modpack/velocity-plus)
-  [![Quicksurf](https://i.imgur.com/mc8HVq3.png)](modrinth.com/modpack/quicksurf)
-  [![Photogenetic](https://i.imgur.com/LhvdHGY.png)](modrinth.com/modpack/photogenetic)
+  [![Quicksurf](https://i.imgur.com/mc8HVq3.png)](https://modrinth.com/modpack/quicksurf)
+  [![Photogenetic](https://i.imgur.com/LhvdHGY.png)](https://modrinth.com/modpack/photogenetic)
 
 </center>
 
