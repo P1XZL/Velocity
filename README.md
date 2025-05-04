@@ -9,6 +9,7 @@
 [![Github](https://i.imgur.com/D7q3qCU.png)](https://github.com/P1XZL/Velocity) 
 [![fabric](https://i.imgur.com/4z8jd5p.png)](https://fabricmc.net/)
 [![curseforge](https://i.imgur.com/68UrJRn.png)](https://curseforge.com/minecraft/modpacks/velocity-fabric)
+[![modrinth](https://i.imgur.com/lV4nhdG.png)](https://modrinth.com/modpack/velocity-mc)
   [![VelocityPlus](https://i.imgur.com/HcDXRKP.png)](https://modrinth.com/modpack/velocity-plus)
   [![Quicksurf](https://i.imgur.com/mc8HVq3.png)](modrinth.com/modpack/quicksurf)
   [![Photogenetic](https://i.imgur.com/LhvdHGY.png)](modrinth.com/modpack/photogenetic)
